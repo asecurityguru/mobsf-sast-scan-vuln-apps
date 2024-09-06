@@ -27,4 +27,5 @@ The goal of this repository is to help security teams and mobile developers run 
    git clone https://github.com/asecurityguru/mobsf-sast-scan-vuln-apps.git
    cd mobsf-sast-scan-vuln-apps
 
-2. **Upload the files to MobSF for scanning**:
+2. **Upload the files to MobSF for scanning**
+3.  **Review the vulnerabilities as per OWASP MSTG Document  - https://github.com/julepka/owasp-mstg/tree/master/Document**
