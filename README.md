@@ -24,7 +24,7 @@ The goal of this repository is to help security teams and mobile developers run 
 1. **Clone this repository**:
 
    ```bash
-   git clone [https://github.com/your-username/mobile-vulnerable-source-code.git](https://github.com/asecurityguru/mobsf-sast-scan-vuln-apps.git)
+   git clone https://github.com/asecurityguru/mobsf-sast-scan-vuln-apps.git
    cd mobile-vulnerable-source-code
 
 2. **Upload the files to MobSF for scanning**:
